@@ -1,0 +1,6 @@
+{
+  "projects": {
+    "default": "electricity-monitor-e1c31",
+    "electricity": "electricitymonitoring-97722"
+  }
+}
