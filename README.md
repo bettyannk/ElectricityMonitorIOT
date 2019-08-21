@@ -1,6 +1,8 @@
 # ElectricityMonitorIOT
 A simple electricity monitoring app using IOT  with push notifications
 
+For those who may not know, I live in Kenya doing a school poject , a country where we sometimes battle with electricity. 
+
 - Do I have power at home right now?
 - If not, how long has the power been out for?
 - Is it okay to eat the contents of my freezer? 
