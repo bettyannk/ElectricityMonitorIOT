@@ -1,13 +1,6 @@
 # ElectricityMonitorIOT
 A simple electricity monitoring app using IOT  with push notifications
 
-For those who may not know, I live in Kenya doing a school poject , a country where we sometimes battle with electricity.  
-Hey we even have a multitude of apps that give out ["load-shedding"](http://loadshedding.eskom.co.za/loadshedding/description) schedules. See [here](https://play.google.com/store/apps/details?id=com.ashwhale.sepush.eskom&hl=en) and [here](https://play.google.com/store/apps/details?id=com.news24.loadshedding&hl=en). 
-
-While these apps serve a purpose, they are not so good when we have unplanned outages. 
-
-Which often leaves me asking myself the following questions:
-
 - Do I have power at home right now?
 - If not, how long has the power been out for?
 - Is it okay to eat the contents of my freezer? 
